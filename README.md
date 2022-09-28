@@ -1,5 +1,6 @@
 # bdt-project
-#TEST DATAS AND RESULTS WILL BE UPLOADED AS SOON AS POSSIBLE
+*****TEST DATAS AND RESULTS WILL BE UPLOADED AS SOON AS POSSIBLE
+
 To start Kafka
 cd kafka
 bin/zookeeper-server-start.sh config/zookeeper.properties 
